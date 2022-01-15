@@ -101,4 +101,4 @@ do sistema.
 <li><a href="https://www.ime.usp.br/~mms/mac1222s2019/3%20-%20PDA%20-%20Python%20-%20introducao%20a%20programa%C3%A7%C3%A3o%20orientada%20a%20objetos.pdf">3 - PDA - Python - introducao a programação orientada a objetos - IME - USP.</a> </li>
 <li><a href="https://www.youtube.com/watch?v=yhEqroz32Nk&t=223s">Programação Orientada a Objetos – Aula 01 - Introdução à orientação a objetos - Univesp - Universidade Virtual do Estado de São Paulo.</a> </li>
 </ul>
-# orientacao_a_objetos_python
+
