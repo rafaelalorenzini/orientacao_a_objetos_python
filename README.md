@@ -1,5 +1,6 @@
 <h2>Orientação a Objetos em Python </h2>
 Este repositório será voltado ao estudo de orientação a objetos (POO) em Python. 
+
 Dados e funções relacionadas são encapsilados em um mesmo elemento denominado objeto.
 A comunicação entre objetos é feito pelo envio e recebimento de mensagens.
 
